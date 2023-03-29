@@ -2,12 +2,12 @@
 # Homepage configuration
 # See https://fontawesome.com/v5/search for icons options
 
-title: "Demo dashboard"
-subtitle: "Homer"
-logo: "logo.png"
-# icon: "fas fa-skull-crossbones" # Optional icon
+title: "Índice - TV Online"
+subtitle: "lichodev.com.ar"
+# logo: "logo.png"
+icon: "fas fa-tv" # Optional icon
 
-header: true
+header: false
 footer: '<p>Created with <span class="has-text-danger">❤️</span> with <a href="https://bulma.io/">bulma</a>, <a href="https://vuejs.org/">vuejs</a> & <a href="https://fontawesome.com/">font awesome</a> // Fork me on <a href="https://github.com/bastienwirtz/homer"><i class="fab fa-github-alt"></i></a></p>' # set false if you want to hide it.
 
 # Optional theme customization
