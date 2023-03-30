@@ -1,5 +1,5 @@
 ---
-title: "TV Online"
+title: "Index"
 subtitle: "lichodev.com.ar"
 logo: "logo.png"
 
@@ -48,12 +48,22 @@ services:
       - name: "TV Pública"
         logo: "https://tvpublica.com.ar/favicon.ico" # Change github.png to the name of your own custom icon!
         url: "https://tvpublica.com.ar"
-        target: "live"
       - name: "PlutoTV"
         logo: "assets/icons/pluto.png"
         url: "https://pluto.tv/"
-        target: "live"
-
+      - name: "LN+"
+        url: "https://lnmas.lanacion.com.ar/"
+        logo: "https://lanacion.com.ar/favicon.ico"
+      - name: "TN"
+        url: "https://tn.com.ar/envivo/24hs/"
+        logo: "https://tn.com.ar/favicon.ico"
+      - name: "A24"
+        url: "https://www.a24.com/vivo"
+        logo: "https://www.a24.com/favicon.ico"
+      - name: "Canal 26"
+        url: "https://www.canal26.com/canal26-en-vivo"
+        logo: "https://www.canal26.com/favicon.ico"
+        
   - name: "// Streaming"
     # icon: "fas fa-reddit"
     items:
