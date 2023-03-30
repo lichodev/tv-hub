@@ -43,7 +43,6 @@ colors:
 
 services:
   - name: "// TV En vivo"
-    # icon: "fas fa-github"
     items:
       - name: "TV Pública"
         logo: "https://tvpublica.com.ar/favicon.ico" # Change github.png to the name of your own custom icon!
@@ -51,6 +50,9 @@ services:
       - name: "PlutoTV"
         logo: "assets/icons/pluto.png"
         url: "https://pluto.tv/"
+
+  - name: "// Noticias"
+    items:
       - name: "LN+"
         url: "https://lnmas.lanacion.com.ar/"
         logo: "https://lanacion.com.ar/favicon.ico"
@@ -62,10 +64,9 @@ services:
         logo: "https://www.a24.com/favicon.ico"
       - name: "Canal 26"
         url: "https://www.canal26.com/canal26-en-vivo"
-        logo: "https://www.canal26.com/favicon.ico"
-        
+        logo: "https://www.canal26.com/images/canal26_logo.svg"
+
   - name: "// Streaming"
-    # icon: "fas fa-reddit"
     items:
       - name: "Netflix"
         logo: "https://netflix.com/favicon.ico"
